@@ -1,0 +1,101 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
+h1{
+  text-align: center;
+  text-shadow: 3px 3px 8px #061ce4;
+}
+a {
+  border-right:1px solid black; 
+  padding: 18px;
+  font-size: 30px;
+  text-decoration: none;
+}
+a:visited{
+  color: white;
+}
+#main {
+  margin-left:auto;
+  margin-right:auto;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.footer{
+  margin-top: 100px;
+  width: 100%;
+  padding: 100px 15%;
+  background:red;
+  color: darkblue;
+  font-weight: bolder;
+  text-align: center;
+  font-size: large;
+}
+img {
+    width: 100%;
+}
+#info{
+    font-size: large;
+    text-align: center;
+    padding: 15px;
+}
+table {
+    width: 50%;
+  } 
+td, th {
+  border: 1px solid black;
+  text-align: left;
+  padding: 4px;
+  }
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+  }
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  padding: 19px 16px;
+  padding-left:  182px;
+  text-decoration: none;
+  font-size: 17px;
+  }
+.topnav a:hover {
+  background-color: #ddd;
+  color: blue;
+  }
+  
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+  }
+  #para{
+    padding: 35px;
+}
+#degree1{
+  font-size: larger;
+  color: darkblue;
+}
+#type1 {
+  font-size: larger;
+  color: white;
+}
+#degree2{
+  font-size: larger;
+  color: darkblue;
+}
+#type2 {
+  font-size: larger;
+  color: white;
+}
+#course{
+  padding: 25px;
+}
+
+
+
+  

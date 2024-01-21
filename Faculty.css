@@ -1,0 +1,100 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Raleway', sans-serif;
+  }
+  h1{
+    text-align: center;
+    text-shadow: 3px 3px 8px #061ce4; 
+  }
+  a {
+    border-right:1px solid black; 
+    padding: 18px;
+    font-size: 30px;
+    text-decoration: none;
+  
+  }
+  a:visited{
+    color: white;
+  }
+  a:hover {
+    color: blue;
+  }
+  #main {
+     margin-left:auto;
+     margin-right:auto;
+  }
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+  }
+  .footer{
+    margin-top: 100px;
+    width: 100%;
+    padding: 100px 15%;
+    background:red;
+    color: darkblue;
+    font-weight: bolder;
+    text-align: center;
+    font-size: large;
+  }
+  .topnav {
+    overflow: hidden;
+    background-color: #333;
+    }
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    padding: 19px 16px;
+    padding-left:  182px;
+    text-decoration: none;
+    font-size: 17px;
+    }
+    
+  .topnav a:hover {
+    background-color: #ddd;
+    color: blue;
+    }
+    
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+    }
+  #firstpicture{
+    float: right;
+  }
+  #secondpicture{
+    float: right;
+    padding-right: 345px;
+  }
+  img {
+    border: 5px solid white;
+    }
+  #randolph{
+    color: white;
+  }
+  #jones{
+    color: white;
+  }
+  #hannah{
+    color: white;
+  }
+  #firstsection{
+    padding: 25px;
+  }
+  #thirdsection{
+    padding: 25px;
+  }
+  #nametab1 {
+    padding: 35px;
+  }
+  #nametab2 {
+    padding: 35px;
+  }
+  #nametab3 {
+    padding: 35px;
+  }
+  
